@@ -1,5 +1,5 @@
 "use strict";
-var mime = require('./lib/mime_types');
+var mime = require('./mime_types');
 var application = require("application");
 // var getContext = function () {
 //     if (application.android.context) {
